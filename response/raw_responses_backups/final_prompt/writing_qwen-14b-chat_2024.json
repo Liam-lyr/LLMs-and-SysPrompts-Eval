@@ -1,0 +1,284 @@
+{
+    "question_id": {
+        "18": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "b436b1a1-95cb-9a07-8cf9-b5076888ccfe",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "标题：【穿搭神器】潮男必备！帅气男士牛仔裤，你的OOTD新选择！溢出屏幕的酷劲，让你成为街头焦点！\n\n内容：想象一下，你走在街上，人群中的你，穿着一条帅气的男士牛仔裤，回头率爆表！这就是我今天要推荐的——帅气男士牛仔裤！\n\n（惊叹号）哇！这款牛仔裤的材质超赞，摸起来超级舒服，穿在身上就像是第二层皮肤！而且，它的设计也非常独特，让你在人群中独树一帜！（表情符号）\n\n（悬念和刺激）你是不是已经迫不及待想试穿了？但是，我有一个小秘密要告诉你，这款牛仔裤可是今年的热门单品，你还不赶快行动，让自己成为潮男！（表情符号）\n\n（热点话题）而且，这款牛仔裤还可以帮你提升气质，让你在工作和生活中都更加自信！是不是很心动？那就别犹豫，赶快行动吧！（表情符号）\n\n（口语化表达）总之，这款帅气男士牛仔裤，是你OOTD的新选择！穿上它，你就是最酷的潮男！（表情符号）\n\ntags：男士牛仔裤，帅气，OOTD，潮男\n\n关键词：帅气，OOTD，潮男"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 177,
+                        "output_tokens": 267,
+                        "total_tokens": 444
+                    }
+                }
+            ]
+        ],
+        "19": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "54db5803-755e-9fce-9d5c-b0dba5a7b2bf",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "Sure, I'd be happy to help you write a resignation letter. Here is a sample resignation letter that you can use as a template:\nDear [Employer's Name],\nI am writing to formally resign from my position as [Your Position] at [Company Name]. My last day of work will be [Date].\nI want to express my sincere gratitude for the opportunities and experiences that I have had while working at [Company Name]. I have learned a great deal and have had the chance to work with some truly talented and dedicated individuals. I am grateful for the support and guidance that you and the rest of the team have provided me during my time here.\nI am confident that my departure will not have a negative impact on the operations of the company, as my duties will be taken over by [Name of Person Taking Over Your Duties], who I have trained and worked closely with. I will do everything in my power to ensure a smooth transition during my remaining time here and to make sure that my responsibilities are fully covered.\nOnce again, thank you for the opportunity to be a part of the [Company Name] team. I will always look back on my time here with fond memories and a sense of accomplishment.\nSincerely, [Your Name]"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 101,
+                        "output_tokens": 251,
+                        "total_tokens": 352
+                    }
+                }
+            ]
+        ],
+        "20": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "2e183a57-d0ec-91bd-98bf-a2615dcb3b53",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "[Your Name]\n[Your Address]\n[City, State ZIP Code]\n[Your Email Address]\n[Today’s Date]\n\n[Recipient’s Name]\n[Recipient’s Position]\n[Recipient’s Department]\n[Recipient’s University]\n[Recipient’s Address]\n[City, State ZIP Code]\n\nDear [Recipient’s Name],\n\nI am writing this letter to recommend [Student’s Name] for admission into the prestigious graduate program in computer science at [Recipient’s University]. As [Student’s Position] at [Your Company/Organization], I have had the pleasure of working with [Student’s Name] for [number of years/months] and can attest to their exceptional skills and qualities that make them an ideal candidate for this program.\n\nDuring [Student’s Name] time at [Your Company/Organization], they have demonstrated a keen interest in computer science and a remarkable aptitude for programming. They have consistently impressed me with their ability to learn quickly and apply their knowledge to real-world problems. Their attention to detail and their ability to work independently and collaboratively make them a valuable asset to our team.\n\nIn addition to their technical skills, [Student’s Name] possesses strong communication and leadership skills. They have excellent interpersonal skills and are able to work effectively with people from diverse backgrounds and cultures. Their ability to manage and motivate a team has been instrumental in the success of several projects we have undertaken together.\n\nI have no doubt that [Student’s Name] will excel in the prestigious graduate program in computer science at [Recipient’s University]. Their passion for computer science, coupled with their technical expertise and strong leadership skills, make them an excellent candidate for this program.\n\nI strongly recommend [Student’s Name] for admission into the graduate program in computer science at [Recipient’s University]. I am confident that they will make a significant contribution to the program and the academic community as a whole.\n\nPlease do not hesitate to contact me if you require any further information.\n\nSincerely,\n\n[Your Name]"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 99,
+                        "output_tokens": 393,
+                        "total_tokens": 492
+                    }
+                }
+            ]
+        ],
+        "21": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "d4b58fd4-67e1-98f9-a109-c118468eec86",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "幕一：\n\n场景：一个破旧的小屋，女主小晴（16岁）坐在破旧的书桌前，手中拿着一本古老的书，脸上满是困惑。\n\n旁白：小晴，一个出身贫寒的少女，她的一生都在与贫困作斗争。然而，她的生活即将因为一本古老的书而改变。\n\n小晴（自言自语）：这本书是怎么回事？为什么我会有这样的感觉？\n\n突然，书页翻动，一道光闪过，小晴被吸入了书中。\n\n旁白：她穿越了，来到了一个全新的世界，一个商业集团的危机中。\n\n小晴（惊愕）：我这是在哪里？发生了什么？\n\n此时，小晴的意识来到了另一个世界，她的面前是一个商业集团的会议室，一场危机正在等待着她。\n\n旁白：她的命运，将会在这次穿越中发生巨大的改变。\n\n小晴（坚定）：我不能坐视不管，我要改变这一切。\n\n她站起身，走向会议室，开始了她的逆天改命之旅。\n\n旁白：小晴，你的命运，掌握在你自己的手中。\n\n幕一结束。"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 168,
+                        "output_tokens": 232,
+                        "total_tokens": 400
+                    }
+                }
+            ]
+        ],
+        "22": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "30dceacd-63a8-9b01-9e91-0a29305ecca0",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "Subject: Apology for Delayed Order and Reassurance of Resolution\nDear [Customer Name],\nI am writing to apologize for the delay in fulfilling your order. I understand how frustrating it can be to wait for something you are looking forward to, and I sincerely apologize for any inconvenience this may have caused you.\nPlease know that we take full responsibility for the delay and we are working diligently to resolve the issue. Our team has been investigating the cause of the delay and we have identified the root of the problem. We have taken steps to ensure that this issue does not happen again in the future.\nAs a gesture of our apology, we would like to offer you a [discount or free gift] on your next purchase with us. We value your business and want to make things right.\nYour order has been shipped and should arrive [estimated delivery date]. We have also provided a tracking number for your convenience. Please do not hesitate to contact us if you have any further questions or concerns.\nOnce again, please accept our sincere apologies for the delay in your order. We appreciate your patience and understanding.\nSincerely,\n[Your Name]\n[Your Title]\n[Your Company]"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 101,
+                        "output_tokens": 235,
+                        "total_tokens": 336
+                    }
+                }
+            ]
+        ],
+        "23": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "88ff0620-acd8-9c90-8008-e5e1c8ddf1f4",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "一、引言\n  1.1 背景介绍\n  1.2 研究目标\n  1.3 论文结构\n\n二、chat大模型的概述\n  2.1 chat大模型的定义\n  2.2 chat大模型的起源\n  2.3 chat大模型的特点\n\n三、chat大模型的应用\n  3.1 在自然语言处理中的应用\n  3.2 在人工智能领域的应用\n  3.3 在其他领域的应用\n\n四、chat大模型的未来发展\n  4.1 chat大模型的发展趋势\n  4.2 chat大模型的影响\n  4.3 chat大模型的挑战\n\n五、chat大模型的评价\n  5.1 chat大模型的优点\n  5.2 chat大模型的缺点\n  5.3 chat大模型的改进\n\n六、结论\n  6.1 论文的主要发现\n  6.2 论文的贡献\n  6.3 论文的局限性\n\n七、参考文献"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 111,
+                        "output_tokens": 238,
+                        "total_tokens": 349
+                    }
+                }
+            ]
+        ],
+        "24": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "cfd0cb9b-787a-925d-9ddc-08dfe6447ff0",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "As the sun sets over the Pacific Ocean, I can't help but feel grateful for the opportunity to explore one of the most beautiful places on earth - Hawaii. With its stunning beaches, lush rainforests, and rich cultural heritage, Hawaii is a true paradise for both nature lovers and adventure-seekers.\n\nMy journey began in Honolulu, the capital city of Hawaii, where I spent a few days soaking up the sun and exploring the local culture. One of the highlights of my trip was visiting Pearl Harbor, a historical site that commemorates the attack on Pearl Harbor in 1941. The museum and memorial are a must-see for anyone interested in history, and the exhibits are well-curated and informative.\n\nAfter spending a few days in Honolulu, I made my way to the island of Maui, where I was able to experience the beauty and diversity of Hawaii's landscape. From the towering peaks of Haleakala National Park to the stunning beaches of Kaanapali, Maui has something for everyone. I particularly enjoyed hiking through the rainforest and taking in the breathtaking views from the summit of Haleakala.\n\nOne of the most unique cultural experiences of my trip was attending a traditional Hawaiian luau. The food, music, and dancing were all incredible, and I was struck by the warmth and hospitality of the Hawaiian people. It was a truly unforgettable experience.\n\nFinally, I made my way to the island of Kauai, known as the Garden Isle for its lush rainforests and stunning waterfalls. I spent a day hiking the Kalalau Trail, which offers some of the most breathtaking views in Hawaii. The trail is challenging, but the reward is well worth the effort - the views of the coastline and the ocean are simply stunning.\n\nOverall, my trip to Hawaii was an incredible adventure that allowed me to experience the beauty and culture of this amazing place. Whether you're interested in history, nature, or culture, Hawaii has something for everyone. I highly recommend making the trip if you have the opportunity - you won't regret it!"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 97,
+                        "output_tokens": 414,
+                        "total_tokens": 511
+                    }
+                }
+            ]
+        ],
+        "25": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "2238e55b-0e82-9523-8643-af3c5cbd6aa7",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "As the curtains rise on the latest science fiction film to hit the big screen, the audience is immediately drawn into a world unlike any other. From the very first scene, it is clear that this is a movie that is not to be missed.\n\nThe plot of the film is complex and multi-layered, with twists and turns that keep the audience guessing until the very end. At its core, the story is about a group of humans who are sent on a mission to explore a distant planet. But as they delve deeper into the unknown, they begin to uncover a sinister plot that threatens not only their own survival, but the fate of the entire universe.\n\nThe characters in the film are equally compelling. Each one is well-developed and fully realized, with their own unique personalities and motivations. The lead actor delivers a standout performance, bringing depth and nuance to their portrayal of a young scientist struggling to come to terms with the weight of their mission.\n\nBut it is the special effects that truly take the film to the next level. The visuals are stunning, with intricate sets and breathtaking landscapes that transport the audience to a world beyond their wildest imagination. The action sequences are expertly choreographed, with pulse-pounding fight scenes and hair-raising stunts that leave audiences on the edge of their seats.\n\nOverall, this science fiction film is a must-see for fans of the genre. With its compelling plot, well-developed characters, and stunning special effects, it is a film that will leave audiences talking long after the credits have rolled. Whether you are a die-hard sci-fi fan or simply looking for an exciting and thought-provoking movie experience, this film is sure to deliver. So grab your popcorn and get ready to be blown away by the latest addition to the science fiction genre."
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 98,
+                        "output_tokens": 360,
+                        "total_tokens": 458
+                    }
+                }
+            ]
+        ],
+        "26": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "78ac4ce7-83ca-9bf5-b687-ad6d5445eb7e",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "对于大学生出现脱发问题，可以从以下几个方面进行营养补充和饮食调整：\n\n1. 蛋白质：蛋白质是头发的主要成分，缺乏蛋白质会导致头发干燥、脆弱。建议多食用富含蛋白质的食物，如肉类、鱼类、蛋类、豆类等。\n\n2. 维生素B族：维生素B族对头发的生长和健康有着重要的作用，缺乏维生素B族会导致头发脱落。建议多食用富含维生素B族的食物，如全谷类、瘦肉、鸡蛋、豆类等。\n\n3. 钙和铁：钙和铁对头发的生长和健康也非常重要，缺乏钙和铁会导致头发干燥、脆弱。建议多食用富含钙和铁的食物，如牛奶、豆腐、瘦肉、鱼类、绿叶蔬菜等。\n\n4. 硒：硒对头发的生长和健康也有着重要的作用，缺乏硒会导致头发脱落。建议多食用富含硒的食物，如海藻、海鱼、瘦肉、鸡蛋、豆类等。\n\n5. 健康饮食：建议大学生避免过度熬夜、饮食不规律等不良生活习惯，保持良好的作息和饮食习惯，多吃新鲜的水果和蔬菜，少吃油炸、辛辣等刺激性食物，保持饮食均衡。\n\n6. 保持水分：保持头发和头皮的水分也是防止脱发的重要方法，建议多喝水，避免过度脱水。\n\n总之，对于大学生出现的脱发问题，除了调整生活习惯外，还需要通过饮食调整和营养补充来改善。"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 141,
+                        "output_tokens": 310,
+                        "total_tokens": 451
+                    }
+                }
+            ]
+        ],
+        "27": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "270295fc-d314-995a-b490-facd8f507f88",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "工作经历：\n\nH5开发\n\n- 创造性地设计和开发了多款H5页面，提升了公司产品的用户体验和品牌形象，成功地吸引了大量用户并提高了用户活跃度。\n- 精心编写和优化了H5代码，保证了页面的流畅性和稳定性，提高了页面加载速度，从而提升了用户满意度。\n- 利用丰富的数据分析工具，对H5页面进行了深入的分析和优化，提升了页面的转化率和留存率，为公司带来了显著的商业价值。\n- 与团队成员紧密合作，积极分享和学习新的开发技术和设计理念，共同推动了团队的技术进步和项目成功。"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 151,
+                        "output_tokens": 135,
+                        "total_tokens": 286
+                    }
+                }
+            ]
+        ]
+    }
+}

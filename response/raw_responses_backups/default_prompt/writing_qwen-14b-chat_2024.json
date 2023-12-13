@@ -1,0 +1,284 @@
+{
+    "question_id": {
+        "18": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "4eaaa82e-8132-9c40-a84b-499435aed412",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "标题：【帅气潮男必备！】让你的OOTD立刻升级的男士牛仔裤！\n\n正文：感叹号和表情符号无法完全表达我对这款男士牛仔裤的热爱！你们见过如此酷炫的款式吗？超级适合潮男们，一定会让你的OOTD立刻升级！穿上它，你就是街头最靓的仔！\n\n这款牛仔裤的版型设计，简直让人惊艳！它采用了最流行的修身剪裁，穿上后不仅能够突出你的身材优势，还能让你的造型更加有型。而且，它的材质也非常特别，经过特殊处理后，耐磨耐穿，无论是平时出门，还是户外活动，都能轻松应对。\n\n更让人惊喜的是，这款牛仔裤还融入了热门的破洞元素，让你的造型更加潮流！而且，它的颜色也非常百搭，无论是黑色，白色，还是深蓝色，都能轻松驾驭。\n\n怎么样，你们是不是已经迫不及待想要拥有这款男士牛仔裤了呢？赶快行动起来吧，让你的OOTD立刻升级，成为街头最酷的潮男！#帅气# #OOTD# #潮男#"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 102,
+                        "output_tokens": 232,
+                        "total_tokens": 334
+                    }
+                }
+            ]
+        ],
+        "19": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "5ae1a5d0-c199-9fe6-974b-9829f1f66c60",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "Sure, here is a sample resignation letter that you can use as a template:\nDear [Employer],\nI am writing to inform you that I have decided to resign from my position at [Company] effective [Date]. This was not an easy decision to make, but I have decided to pursue new opportunities that align more closely with my long-term career goals.\nI want to express my sincere gratitude for the opportunities that [Company] has provided me during my time here. I have learned a great deal and have had the chance to work with some truly talented individuals. I am grateful for the support and guidance that you and the rest of the team have provided me.\nI am committed to making this transition as smooth as possible and will do everything I can to ensure that my departure does not negatively impact the team or the company. I will be available to assist with the transition process and will be happy to provide any additional support or information that may be needed.\nThank you again for the opportunity to be a part of the [Company] team. I appreciate the experience and the friendships that I have made here, and I wish the company and my colleagues all the best in the future.\nSincerely,\n[Your Name]"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 32,
+                        "output_tokens": 243,
+                        "total_tokens": 275
+                    }
+                }
+            ]
+        ],
+        "20": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "5fb3a535-339f-9251-ae90-d255ec503a14",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "[Your Name]\n[Your Address]\n[City, State ZIP Code]\n[Email Address]\n[Phone Number]\n[Date]\n\n[Recipient's Name]\n[Recipient's Position]\n[Recipient's Address]\n[City, State ZIP Code]\n\nDear [Recipient's Name],\n\nI am writing to recommend [Student's Name] for admission to the prestigious graduate program in computer science at your esteemed institution. I have had the pleasure of working with [Student's Name] for [duration] as [your role] at [your organization/company], and I have no doubt that [Student's Name] will be an asset to your program.\n\nDuring [Student's Name]'s time at [their current institution], they consistently demonstrated a strong passion for computer science and a commitment to excellence in their coursework and projects. [Student's Name] was an exceptional student, consistently ranking at the top of their class and earning numerous awards and accolades for their academic achievements.\n\nIn addition to their academic achievements, [Student's Name] has also demonstrated exceptional skills in [specific skill related to computer science]. [Student's Name] has worked on several projects in this area, and their work has been recognized by [industry/academic body], earning [specific award/achievement]. [Student's Name] is also an active member of [specific organization related to computer science], where they have contributed to several initiatives and projects.\n\n[Student's Name] is an exceptional individual who possesses the necessary qualities for success in a graduate program in computer science. They are highly motivated, dedicated, and possess a strong work ethic. [Student's Name] is also an excellent communicator, both in writing and verbally, and is able to work effectively in both individual and team settings.\n\nI have no doubt that [Student's Name] will excel in your graduate program in computer science and make significant contributions to the field. I strongly recommend [Student's Name] for admission to your program and am confident that they will make a positive impact on your institution.\n\nPlease do not hesitate to contact me if you require any further information.\n\nSincerely,\n\n[Your Name]"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 30,
+                        "output_tokens": 422,
+                        "total_tokens": 452
+                    }
+                }
+            ]
+        ],
+        "21": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "ff24349e-afa2-9035-b090-1194c04cb958",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "【第一幕】\n\n场景：现代都市，商业集团办公室\n\n（灯光亮起，舞台上出现一位名叫李晓晴的女性，她坐在办公桌前，拿着一份文件，表情凝重。）\n\n李晓晴（自言自语）：（公司）到底怎么了？\n\n（突然，一道强光从窗户射进来，李晓晴被光芒包围，眼前一黑，昏了过去。）\n\n【灯光暗下，再亮起，李晓晴出现在古代的庭院中。】\n\n（此时，她身着古代服饰，周围是一片繁华的景象。）\n\n李晓晴（惊愕）：我这是穿越了？\n\n（突然，一个声音响起。）\n\n声音：（女子的声音）小姐，你终于醒了。\n\n（李晓晴转头，看见一位侍女。）\n\n李晓晴：你是谁？\n\n侍女：我是你的贴身丫鬟，你叫李晓晴。\n\n李晓晴（惊讶）：我叫李晓晴？\n\n（突然，一阵急促的脚步声传来，一位男子冲进来。）\n\n男子：晓晴，不好了，商业集团出大事了。\n\n（李晓晴脸色一变，站起身。）\n\n李晓晴：出什么事了？\n\n男子：我们被竞争对手陷害，面临破产的危险。\n\n李晓晴（坚定）：我去解决。\n\n（男子惊讶地看着李晓晴，但还是点头答应。）\n\n【灯光暗下，再亮起，李晓晴出现在第二次穿越的场景中，继续她的商业冒险。】\n\n（场景、角色、情节可以根据需要继续设计和扩展。）"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 93,
+                        "output_tokens": 331,
+                        "total_tokens": 424
+                    }
+                }
+            ]
+        ],
+        "22": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "c6620fa5-f3c3-9010-9990-8ddf784b2ab8",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "Subject: Apology for Delayed Order and Reassurance of Resolution\n\nDear [Customer’s Name],\n\nI hope this email finds you well. I am writing to apologize for the delay in fulfilling your recent order. I understand that you were looking forward to receiving your product and for the inconvenience this has caused, I sincerely apologize.\n\nWe take full responsibility for the delay and assure you that we have taken immediate steps to rectify the situation. Our team has worked diligently to ensure that your order is now being processed and will be shipped out as soon as possible.\n\nWe understand the importance of timely delivery, and we want to assure you that we have learned from our mistake and have taken necessary measures to prevent similar delays in the future. We value your business and appreciate your patience during this time.\n\nThank you for your understanding and for choosing our company for your needs. If you have any further concerns, please do not hesitate to contact us. We are always here to assist you.\n\nSincerely,\n\n[Your Name]\n\n[Your Company’s Name]"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 32,
+                        "output_tokens": 208,
+                        "total_tokens": 240
+                    }
+                }
+            ]
+        ],
+        "23": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "2714e3ac-1248-9fed-a8d5-3ce86f44cfa0",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "一、引言\n  1.1 研究背景与意义\n  1.2 研究目的与目标\n  1.3 论文结构与内容\n\n二、Chat大模型的概述\n  2.1 Chat大模型的定义\n  2.2 Chat大模型的发展历程\n  2.3 Chat大模型的原理与技术\n\n三、Chat大模型的现状与应用\n  3.1 Chat大模型在自然语言处理领域的应用\n  3.2 Chat大模型在语音识别领域的应用\n  3.3 Chat大模型在机器翻译领域的应用\n  3.4 Chat大模型在知识图谱领域的应用\n\n四、Chat大模型对未来的影响\n  4.1 Chat大模型对社会的影响\n  4.2 Chat大模型对经济的影响\n  4.3 Chat大模型对教育的影响\n  4.4 Chat大模型对医疗的影响\n\n五、Chat大模型的未来发展趋势\n  5.1 Chat大模型的技术发展趋势\n  5.2 Chat大模型的应用发展趋势\n  5.3 Chat大模型的伦理发展趋势\n\n六、结论\n  6.1 论文的主要发现\n  6.2 论文的贡献与局限\n  6.3 论文的展望与建议\n\n七、参考文献"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 36,
+                        "output_tokens": 298,
+                        "total_tokens": 334
+                    }
+                }
+            ]
+        ],
+        "24": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "db145072-8a68-9ae1-9a05-d936f3d052b6",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "As soon as I landed in Honolulu, I was immediately struck by the beauty of Hawaii. The warm, tropical climate, the crystal-clear waters, and the lush, green landscape were like nothing I had ever seen before. I was excited to explore this beautiful island and immerse myself in the rich culture and history of Hawaii.\nOne of the first things I did was to visit Pearl Harbor, a national historic site that commemorates the attack on Pearl Harbor by the Japanese on December 7, 1941. The USS Arizona Memorial is a must-see attraction, where visitors can pay their respects to the brave men and women who lost their lives in the attack. I also visited the Pacific Aviation Museum, which showcases the history of aviation in Hawaii and around the world.\nAnother highlight of my trip was visiting the Polynesian Cultural Center, which is a living museum that showcases the culture and traditions of Hawaii and other Pacific Islands. I was able to witness traditional dances, hear stories told by local elders, and even participate in a traditional Hawaiian luau. It was an incredibly immersive and educational experience that gave me a deep appreciation for the rich culture of Hawaii.\nOf course, no trip to Hawaii would be complete without spending some time on the beach. I visited several of the most beautiful beaches in Hawaii, including Waikiki Beach and Lanikai Beach. The crystal-clear waters and soft, white sand were the perfect place to relax and soak up the sun.\nOverall, my trip to Hawaii was an unforgettable experience. I was able to immerse myself in the rich culture and history of Hawaii, and I returned home with a deep appreciation for this beautiful island. If you're looking for a tropical getaway that is filled with culture and adventure, I highly recommend visiting Hawaii."
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 28,
+                        "output_tokens": 357,
+                        "total_tokens": 385
+                    }
+                }
+            ]
+        ],
+        "25": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "b3b2b35e-fc96-9389-8f39-83445c1393a2",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "The recently released science fiction film, \"Ad Astra,\" directed by James Gray, is a captivating exploration of space, love, and loss. The film follows Roy McBride (Brad Pitt), an astronaut who embarks on a journey to find his father, who disappeared on a mission to find an alien civilization that may have destroyed the moon.\n\nThe plot of the film is intricate and thought-provoking, with plenty of twists and turns that keep the audience engaged. The story explores themes of loneliness, the meaning of life, and the consequences of scientific exploration. The film's pacing is deliberate, allowing the audience to fully absorb the stunning visuals and complex characters.\n\nBrad Pitt delivers a powerful performance as Roy McBride, bringing depth and emotion to a character who is haunted by his past and determined to find answers. The supporting cast, including Tommy Lee Jones and Ruth Negga, also deliver strong performances, adding depth and nuance to their respective roles.\n\nOne of the standout features of \"Ad Astra\" is its stunning visual effects. The film takes place in a vast, alien landscape that is both beautiful and terrifying. The special effects team has done an excellent job of creating a believable and immersive world that draws the audience in.\n\nOverall, \"Ad Astra\" is a must-see for science fiction fans and anyone who appreciates a well-crafted story with complex characters and stunning visuals. The film is a triumph of storytelling and a testament to the power of cinema to transport us to new worlds and inspire us to explore the unknown."
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 29,
+                        "output_tokens": 309,
+                        "total_tokens": 338
+                    }
+                }
+            ]
+        ],
+        "26": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "edb5bdf7-6c49-948f-a03b-1e5b81078cfc",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "1. 食用富含蛋白质的食物：头发主要由蛋白质构成，因此摄入足够的蛋白质对头发生长至关重要。可以选择鱼、肉、蛋、豆腐等富含优质蛋白质的食物。\n\n2. 增加维生素和矿物质的摄入：维生素A、C、E和锌、铁、硒等矿物质对头发生长都有积极作用。可以通过食用新鲜的水果、蔬菜、坚果和全谷类食物来获取这些营养素。\n\n3. 避免过多的咖啡因和酒精：这些物质可能加速脱发现象。尽量减少咖啡和酒精的摄入。\n\n4. 增加Omega-3脂肪酸的摄入：Omega-3脂肪酸对头皮健康有益，可以帮助防止脱发。可以通过食用鱼、亚麻籽、核桃等食物来获取。\n\n5. 保持良好的饮食习惯：定时定量地吃饭，避免过度饥饿或饱食，这都有助于维持头皮和头发的健康。\n\n6. 补充维生素B群：维生素B群对头发生长有重要作用，可以通过食用全谷类、瘦肉、鸡蛋、豆类等食物来获取。\n\n7. 多喝水：保持良好的水分平衡对头发的健康也非常重要。\n\n以上建议需要结合个人的身体状况和生活习惯进行适当的调整，如果脱发问题持续不改善，建议寻求医生的帮助。"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 66,
+                        "output_tokens": 274,
+                        "total_tokens": 340
+                    }
+                }
+            ]
+        ],
+        "27": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "345b046f-226f-95b8-9fc6-0ad7c536626a",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "工作经历：\n\nH5开发\n\n- 创造性地设计和开发了多款H5页面，提升了公司产品的用户体验和吸引力，成功地吸引了20%的新用户。\n- 使用JavaScript和HTML5技术，实现了页面的动态交互和优化，提高了页面的加载速度，提升了用户满意度，页面的平均加载时间缩短了30%。\n- 负责与设计团队紧密协作，确保页面的设计和功能的一致性，提高了项目的执行效率，项目完成时间比原计划提前了15%。\n- 利用数据分析工具，对H5页面的用户行为进行深入研究，提出了一系列的优化建议，成功地提高了页面的转化率，提升了公司的业绩，增加了公司的收入。"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 76,
+                        "output_tokens": 153,
+                        "total_tokens": 229
+                    }
+                }
+            ]
+        ]
+    }
+}

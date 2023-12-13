@@ -1,0 +1,13 @@
+# api-keys
+.env
+*/.env
+
+# ide
+.idea
+.vscode
+*/.idea
+*/.vscode
+
+# pycache
+__pycache__/
+*/__pycache__/

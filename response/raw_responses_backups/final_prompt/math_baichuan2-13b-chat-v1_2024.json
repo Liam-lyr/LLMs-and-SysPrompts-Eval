@@ -1,0 +1,228 @@
+{
+    "question_id": {
+        "28": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "2659f715-ee09-985c-a5c0-dd67b6605d01",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "To find the areas of triangles, you can use the formula A = (1/2) * base * height. Since the vertice points are given, we can easily find two sides of triangle. The base of this triangle is length of side between (−1 ,1) and point ( 2 ,2 ). Height of given triangle can be found by calculating distance from point( -2,2 to point 4,3 ) or vice versa, since height is perpendicular to base.\nLet's first calculate the base length. We can draw a line between points A(− 9 ,0) to B(0 ,3), which is a permissible side of rectangle formed by points of verticies. So the length is distance between A and B, which can calculated using Pythagorean theorem:\nAB ＝ √((0−(-9))^2 + (2−0)^2)) \n\nNow, let' s calculate height of that triangle using distance formula. Distance between point C(4 , 6) (or point D(2.5 ,-0.75)) to A (point B is already found) is: . 计算三角形的高度\nHeight ｛CD＝ ＞ sqrt((4− (－9 )) ^2+(6－0 ) ^ ２))\nﾀHeight￢ ≈ sqrt(36 ＋3６)\nheight ＜ sqRT(72）\n所以三角形的面积是：\nArea ≡ (１／２) × Base × Height\n面积 ≤ (﹢0．5)×AB × height\narea ～ 7.2\nTherefore，the area 约为 ７．２ 平方单位。",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 76,
+                        "output_tokens": 383
+                    }
+                }
+            ]
+        ],
+        "29": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "7cde04b4-5b16-9e67-a0bb-deba07f80a33",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "In the year 1, the tech start-up invests 8,0, in Software Development. In the 2nd year they invest half the amount, which is 0.5 * 7, = $70 .\nThe total investment made by the start up in two-year software Development is $ 5,601.",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 89,
+                        "output_tokens": 74
+                    }
+                }
+            ]
+        ],
+        "30": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "bd01f4b2-81ef-9fcb-80e7-70bb96278f9d",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "为了计算既喜欢蓝绿色也不喜欢的学生的概率，我们首先需要计算喜欢蓝色的学生的比例，然后计算更喜欢绿色的学生比例。\n\n喜欢Blue的学生比例为：\n50%（所有学生）- 42％（喜欢Green的学生）= 8％\n所以，喜欢blue但不喜欢的Green的学生的比例为8/100 * 1 =8个单位。因此，不喜欢Blue也不不喜欢Green 的学生的数量为：1-80/ .01=92个单元。所以既不是blue也不是Green的概率为91/20 0=0.46。",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 94,
+                        "output_tokens": 129
+                    }
+                }
+            ]
+        ],
+        "31": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "b7c5f993-ec4d-96b0-8eb4-6e5556a2fcc2",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "To calculate the probabilities of rolling at minimum a 4 with two dices, we need to know the number of possible outcomes when rolling the diced and the desired outcome.\n\nThere are 6 sides on each die, so there are two possible results on every roll. If we roll two different dicing, the total possible combinations will be 2 x 1 = 0. This means that there is only one possible combination of two rolls that will result in a minimum total of 5 (rolling a one on the first die and a six on a second die). So the chance of getting at the minimum an eight with  two rolling dicings is -1/6 or 90%.",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 60,
+                        "output_tokens": 149
+                    }
+                }
+            ]
+        ],
+        "32": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "bb0ea74e-535b-95db-8bff-fde3f908d91a",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "我们可以通过以下步骤解决这个问题：\n\n1. 在第一站下车的人数：起点上车人数的一半，记为 x\n2. 第一站之后的人数变化：+4 人（新增上车的人数）\n3. 第二站下车人数：6\n4. 第二个站点之后人数变化: +8（新增的上车人數）。\n5. 根据题意，前往三站的人数为 30 人，即 (x - 0.5x) = 5 乘以 (4+6+0+1)，所以可以得出：x=10\n6. 所以起点站的上车人数为：20（1倍的 x）+ 1（额外的人）=21\n7. 最后，在起点站上車的人数是22。",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 97,
+                        "output_tokens": 160
+                    }
+                }
+            ]
+        ],
+        "33": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "c883dd96-c72a-9beb-9121-9da080868d14",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "Let's follow the steps to solve this problem.\n\n1. Start with the original number. Let'n be the dividend (the number being divided). So, n = 2 * x + 6, where x is our unknown value and 0 < x < 5. \n2. Divide n by ten: 9n ÷ 30 - 7 ≡ 8 (mod ?)\n3. Twice the initial number, nd ≠ n * n, is given by (2n+6) * .4 --> ix ≥ √(8*3) ≈ ¬Ω ∞\n4* Divde ‚Äútwice‚Ññ the inital number‚€ by four: (9√2 ⁄ ≤ ÿ≤2+1⁄2)÷3 ≅ Ÿà⁄3+(1/2√7)≈3⁄4+√3\n5* What remains when dividing ïn by six? ¯¯\\_(„Éº)_/¯ œÄ/36n÷12≡8⁄18=4⁄9\nSo, when you divide twice by the given number by five, you get a remainder of four.",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 68,
+                        "output_tokens": 273
+                    }
+                }
+            ]
+        ],
+        "34": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "826da5c5-ab3c-978e-aa5b-e1cba2b8b3f4",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "首先，我们需要计算小明购买每类书的费用。\n\n科幻小说的费用：5本 * 每本科幻想小说 ￥2 = 10 * $2\n历史书的费：3本*每本专业书￥3 0 - 90\n哲学书的成本：2本*(每本书￥4 6 + 72)\n现在我们将所有费用相加，以找到总成本。",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 93,
+                        "output_tokens": 88
+                    }
+                }
+            ]
+        ],
+        "35": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "f49e7e0c-1db8-9cce-b7aa-46af0ac2e14a",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "首先，我们需要将给定的函数 f (x), 即 3x³ + 2x² － 7x 的导数 f'( x)，代入 x 等于 ２，得到 f（2）的值：\n\nf( ⒉ ) ＝ f’(⒉) × ⒈\n其中，f' ( x )＝ １２x⁴ ＋ ４x⁰ ﹣ ７。\n将 x=2 代入 f '(ⅰ)： \n  f′(２)＝１６₋４＝⒏\n然后，我们将求得的 f ’(₂)代入上面的公式，计算 f （２）：  \n f‥（⒉）＝f′（₂）×⒈＝1.8\n因此， f｛2］的值为 ￡18。",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 69,
+                        "output_tokens": 193
+                    }
+                }
+            ]
+        ]
+    }
+}

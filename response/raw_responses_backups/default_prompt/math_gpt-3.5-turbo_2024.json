@@ -1,0 +1,212 @@
+{
+    "question_id": {
+        "28": [
+            [
+                {
+                    "id": "chatcmpl-8TrNl9tdP7Bs6Ltp8VaflgmuAIIoF",
+                    "created": 1702127405,
+                    "model": "gpt-3.5-turbo-0613",
+                    "system_fingerprint": null,
+                    "object": "chat.completion",
+                    "usage": {
+                        "prompt_tokens": 52,
+                        "completion_tokens": 645,
+                        "total_tokens": 697
+                    },
+                    "choices": [
+                        {
+                            "finish_reason": "stop",
+                            "index": 0,
+                            "message": {
+                                "content": "To find the area of the triangle, we can use the formula for the area of a triangle given its vertices.\n\nWe have the coordinates of the three vertices: (0, 0), (-1, 1), and (3, 3).\n\nFirst, we can find the lengths of the sides of the triangle using the distance formula.\n\nThe distance between (0, 0) and (-1, 1) is:\nd₁ = √((x₂ - x₁)² + (y₂ - y₁)²)\n   = √((-1 - 0)² + (1 - 0)²)\n   = √(1 + 1)\n   = √2\n\nThe distance between (0, 0) and (3, 3) is:\nd₂ = √((x₂ - x₁)² + (y₂ - y₁)²)\n   = √((3 - 0)² + (3 - 0)²)\n   = √(9 + 9)\n   = √18\n   = 3√2\n\nThe distance between (-1, 1) and (3, 3) is:\nd₃ = √((x₂ - x₁)² + (y₂ - y₁)²)\n   = √((3 - (-1))² + (3 - 1)²)\n   = √(4² + 2²)\n   = √(16 + 4)\n   = √20\n   = 2√5\n\nNow, we can use Heron's formula to calculate the area of the triangle.\n\nHeron's formula states that the area of a triangle with side lengths a, b, and c, is given by:\nArea = √(s * (s - a) * (s - b) * (s - c))\n\nwhere s is the semi-perimeter of the triangle, calculated as:\ns = (a + b + c) / 2\n\nIn this case, a = √2, b = 3√2, and c = 2√5. \n\nThe semi-perimeter of the triangle is:\ns = (√2 + 3√2 + 2√5) / 2\n   = (4√2 + 2√5) / 2\n   = 2√2 + √5\n\nNow, we can calculate the area using Heron's formula:\nArea = √((2√2 + √5) * ((2√2 + √5) - √2) * ((2√2 + √5) - 3√2) * ((2√2 + √5) - 2√5))\n     = √((2√2 + √5) * (√23 - √2) * (√10 - √5) * (√5 - √2))\n\nUnfortunately, the expression inside the square root cannot be simplified further.",
+                                "role": "assistant"
+                            }
+                        }
+                    ]
+                }
+            ]
+        ],
+        "29": [
+            [
+                {
+                    "id": "chatcmpl-8TrO9lhIct0a0TwJkzDERa5IdCESi",
+                    "created": 1702127429,
+                    "model": "gpt-3.5-turbo-0613",
+                    "system_fingerprint": null,
+                    "object": "chat.completion",
+                    "usage": {
+                        "prompt_tokens": 66,
+                        "completion_tokens": 95,
+                        "total_tokens": 161
+                    },
+                    "choices": [
+                        {
+                            "finish_reason": "stop",
+                            "index": 0,
+                            "message": {
+                                "content": "To find the total amount the startup invested in software development over the two years, we need to calculate the investment for each year and then add them together.\n\nIn the first year, the startup invested $8000 in software development.\n\nIn the second year, the startup invested half of that amount, which is $8000 / 2 = $4000.\n\nSo, the total amount invested over the two years is $8000 + $4000 = $12000.",
+                                "role": "assistant"
+                            }
+                        }
+                    ]
+                }
+            ]
+        ],
+        "30": [
+            [
+                {
+                    "id": "chatcmpl-8TrODAndMcvRN6iceVxoENUWJ473t",
+                    "created": 1702127433,
+                    "model": "gpt-3.5-turbo-0613",
+                    "system_fingerprint": null,
+                    "object": "chat.completion",
+                    "usage": {
+                        "prompt_tokens": 138,
+                        "completion_tokens": 372,
+                        "total_tokens": 510
+                    },
+                    "choices": [
+                        {
+                            "finish_reason": "stop",
+                            "index": 0,
+                            "message": {
+                                "content": "根据提供的信息，我们可以推断出以下关系：\n\n- 喜欢蓝色的学生：58%\n- 喜欢绿色的学生：45%\n- 喜欢蓝色和绿色的学生：22%\n\n要计算既不喜欢蓝色也不喜欢绿色的学生的概率，我们可以使用互斥事件的原理，即计算不喜欢蓝色或不喜欢绿色的概率，然后用1减去这个概率。\n\n不喜欢蓝色的学生的概率 = 100% - 58% = 42%\n不喜欢绿色的学生的概率 = 100% - 45% = 55%\n\n由于喜欢蓝色和绿色的学生的喜好是重叠的，所以我们需要减去这个重叠部分。\n重叠部分的概率 = 喜欢蓝色和绿色的学生的概率 = 22%\n\n因此，既不喜欢蓝色也不喜欢绿色的学生的概率 = 不喜欢蓝色的学生的概率 + 不喜欢绿色的学生的概率 - 重叠部分的概率\n= 42% + 55% - 22%\n= 75%",
+                                "role": "assistant"
+                            }
+                        }
+                    ]
+                }
+            ]
+        ],
+        "31": [
+            [
+                {
+                    "id": "chatcmpl-8TrPRoET1KD46QvKAkx4GszLkdP0n",
+                    "created": 1702127509,
+                    "model": "gpt-3.5-turbo-0613",
+                    "system_fingerprint": null,
+                    "object": "chat.completion",
+                    "usage": {
+                        "prompt_tokens": 39,
+                        "completion_tokens": 519,
+                        "total_tokens": 558
+                    },
+                    "choices": [
+                        {
+                            "finish_reason": "stop",
+                            "index": 0,
+                            "message": {
+                                "content": "To find the probability of rolling a total number that is at least 3, we need to find the probabilities of rolling each possible sum and then add them together.\n\nThere are 36 equally likely outcomes when rolling two dice, as each die has 6 possible outcomes.\n\nThe possible sums when rolling two dice range from 2 (when both dice show a 1) to 12 (when both dice show a 6). We want to find the probabilities of rolling a sum of 3, 4, 5, 6, 7, 8, 9, 10, 11, or 12. \n\nTo calculate each probability, we can use the concept of combinations. For example, to find the probability of rolling a sum of 3, there is only one way to achieve this outcome: rolling a 1 on one die and a 2 on the other die. Thus, the probability of rolling a sum of 3 is 1/36.\n\nApplying this calculation to all the possible sums, we get the following probabilities:\n\nSum of 3: 1/36\nSum of 4: 3/36\nSum of 5: 6/36\nSum of 6: 10/36\nSum of 7: 15/36\nSum of 8: 21/36\nSum of 9: 25/36\nSum of 10: 27/36\nSum of 11: 27/36\nSum of 12: 27/36\n\nNow, to find the probability of rolling a total number that is at least 3, we add up the probabilities of all the individual sums:\n\nP(sum ≥ 3) = P(sum of 3) + P(sum of 4) + P(sum of 5) + P(sum of 6) + P(sum of 7) + P(sum of 8) + P(sum of 9) + P(sum of 10) + P(sum of 11) + P(sum of 12)\n\nP(sum ≥ 3) = 1/36 + 3/36 + 6/36 + 10/36 + 15/36 + 21/36 + 25/36 + 27/36 + 27/36 + 27/36\n\nP(sum ≥ 3) = 187/36\n\nTherefore, the probability of rolling a total number that is at least 3 is 187/36, which is approximately 0.82.",
+                                "role": "assistant"
+                            }
+                        }
+                    ]
+                }
+            ]
+        ],
+        "32": [
+            [
+                {
+                    "id": "chatcmpl-8TrPlAz3kV57osFEEGV4DHxK2q8Ji",
+                    "created": 1702127529,
+                    "model": "gpt-3.5-turbo-0613",
+                    "system_fingerprint": null,
+                    "object": "chat.completion",
+                    "usage": {
+                        "prompt_tokens": 114,
+                        "completion_tokens": 187,
+                        "total_tokens": 301
+                    },
+                    "choices": [
+                        {
+                            "finish_reason": "stop",
+                            "index": 0,
+                            "message": {
+                                "content": "在第一站上车的人数是起点站上车的总人数减去第一站下车的人数，即起点站上车的总人数减去一半的人数，即：\nx - x/2 = x/2\n在第二站上车的人数是第一站上车的人数加上第一站上车的人数再加上第二站下车的人数，即：\nx/2 + 4 + 6 = x/2 + 10\n所以，在第二站上车的人数等于第三站上车的人数，即：\nx/2 + 10 = 25\n解方程得：x/2 = 15\n所以，起点站上车的人数为 x = 30 人。",
+                                "role": "assistant"
+                            }
+                        }
+                    ]
+                }
+            ]
+        ],
+        "33": [
+            [
+                {
+                    "id": "chatcmpl-8TrPtbFrK76jSyE7Vm4WrD9YhMdVe",
+                    "created": 1702127537,
+                    "model": "gpt-3.5-turbo-0613",
+                    "system_fingerprint": null,
+                    "object": "chat.completion",
+                    "usage": {
+                        "prompt_tokens": 46,
+                        "completion_tokens": 119,
+                        "total_tokens": 165
+                    },
+                    "choices": [
+                        {
+                            "finish_reason": "stop",
+                            "index": 0,
+                            "message": {
+                                "content": "If a number, N, is divided by 10 and the remainder is 4, we can express this as N ≡ 4 (mod 10). \n\nTo find the remainder when twice the number is divided by 4, we need to find the value of 2N (mod 4). \n\nSince multiplying by 2 does not change the remainder when dividing, we can write this as 2N ≡ 2(4) ≡ 8 (mod 4). \n\nTherefore, the remainder when twice the number is divided by 4 is 8.",
+                                "role": "assistant"
+                            }
+                        }
+                    ]
+                }
+            ]
+        ],
+        "34": [
+            [
+                {
+                    "id": "chatcmpl-8TrQxc4PCm51MAEDA5IJAuAeouLdu",
+                    "created": 1702127603,
+                    "model": "gpt-3.5-turbo-0613",
+                    "system_fingerprint": null,
+                    "object": "chat.completion",
+                    "usage": {
+                        "prompt_tokens": 100,
+                        "completion_tokens": 108,
+                        "total_tokens": 208
+                    },
+                    "choices": [
+                        {
+                            "finish_reason": "stop",
+                            "index": 0,
+                            "message": {
+                                "content": "小明购买的科幻小说的总费用为：5本 * 20元/本 = 100元\n历史书的总费用为：3本 * 30元/本 = 90元\n哲学书的总费用为：2本 * 45元/本 = 90元\n因此，小明购买这些书的总费用为：100元 + 90元 + 90元 = 280元。",
+                                "role": "assistant"
+                            }
+                        }
+                    ]
+                }
+            ]
+        ],
+        "35": [
+            [
+                {
+                    "id": "chatcmpl-8TrR26lc6jVEOwaqjUiKkJVaLYNoB",
+                    "created": 1702127608,
+                    "model": "gpt-3.5-turbo-0613",
+                    "system_fingerprint": null,
+                    "object": "chat.completion",
+                    "usage": {
+                        "prompt_tokens": 44,
+                        "completion_tokens": 112,
+                        "total_tokens": 156
+                    },
+                    "choices": [
+                        {
+                            "finish_reason": "stop",
+                            "index": 0,
+                            "message": {
+                                "content": "要求 f(2) 的值，即将 x 替换为 2 代入方程中进行计算。将 x 替换为 2，我们有：\n\nf(2) = 4(2)^3 - 9(2) - 14\n     = 4(8) - 18 - 14\n     = 32 - 18 - 14\n     = 32 - 32\n     = 0\n\n所以，f(2) 的值为 0。",
+                                "role": "assistant"
+                            }
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+}

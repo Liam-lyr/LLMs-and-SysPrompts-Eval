@@ -1,0 +1,228 @@
+{
+    "question_id": {
+        "28": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "00664219-6a93-9134-b4b5-937c6b871c9a",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "To find the perimeter of this triangle, we simply add the lengths of all three sides. The sides are:\n\nSide 2: (1 - .5, or 6) = 4\nSo the total perimeter is 7 + 5 \n 9",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 44,
+                        "output_tokens": 60
+                    }
+                }
+            ]
+        ],
+        "29": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "27102fee-2a14-9fd1-bc7f-8681e62abd25",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "In the third year of the investment, the amount of investment in technology is $40,048.",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 57,
+                        "output_tokens": 23
+                    }
+                }
+            ]
+        ],
+        "30": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "69668903-cb90-9b87-a0fa-3fa611624ca8",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "为了计算既不爱蓝色又不爱绿色的几率，我们首先需要计算爱蓝色和/或爱绿色的总几率。根据题目给出的数据，我们可以计算出：\n\n喜欢蓝色的学生比例：0.59（55 + 2 = 57，占总人数的 47.85 %，四舍五入到两位小数）\n喜好绿色的学生比例: 044（42+3=46，占 3765%, 四舍五入两位小数字）。\n同时喜欢两种颜色的学生占比：21.95（20+1=24，占比18.4%， 四舍五入两位小数点后）.\n因此，喜欢一种颜色的总比例是： 100 - 79.2（68+4=72， 占比 616%） \n所以，既喜欢蓝绿色又喜欢的学生比例为：112.3（13+9=14, 占178%, 四位四舍五入后）,\n那么，不喜欢蓝绿两色的学生比例为:1-1/23.6 （约等于027），即约占总人数28％\n答案：既不喜蓝色又不喜绿色概率约=0。29",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 62,
+                        "output_tokens": 269
+                    }
+                }
+            ]
+        ],
+        "31": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "c787d0e2-64f3-987c-a18a-0300a9eb1044",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "When you are rolling 2 dice there are 6 possible combinations of numbers that can be rolled. These are:\n\n1. Both dice are equal and equal to 1 (1+1)\n2. The first die is 5 and the second die equals 4 (5+4) \n3. One die rolls a 0 and other die equal 7 (0+7).\n4. First die roll is a one and second a five ( +6)  \n5. Second dice rolls are both fives (2x5) or both sixes (two sixs)    \n6. If both dice have different values, then they are either a six and a three (6+3) , or a four and an eight (4+8)   \n7. In case of two six-sided dice (which are not included in the question), you would have 9 possible outcomes (since 8 and -8 are also possibilities)     \n   - . = ? (? )(?) (3 ÷ √ π)2  (?2)3\nTo calculate the chance of rolling a sum at or above ≥ ∑ ≡ Σ (Σ ≤ Δ) / (Δ ∈ Ω)=3, we need to calculate each of the ∆ outcomes and divide it by the total possible ω outcomes. Here are the calculations for each category:  Σ≥3  = (∑≥4  + σ≥2 ) ≈ ΠΣΔΔ/ω  where δ is one of θ1,θ2,...,ω1 ...ωn  and sum is calculated by adding up all of them.    Σ4 ＝ ΘΣΘ ，Σ3＝Θ2ΣΣ2 （Θ1Σ1）\nThe probability of a roll of at most △ is equal the complement of that probability. So the chances of getting atleast ³ is: Ψ ≅ １-Σ＜³  ≈1- (Θ3Σ³ ） ～1－(Θ∑Σ)/Θω≈(1−Θ)/Θ≈0.488 。\nTherefore, the likelihood of obtaining a number equal or greater than ∫ Ω ≧ Γ is approximately Φ≈≈41%.",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 28,
+                        "output_tokens": 501
+                    }
+                }
+            ]
+        ],
+        "32": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "1c544d5c-39d8-9c98-a7aa-b9ee4b3554c2",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "我们可以通过列方程来解决这个问题。\n\n假设在起点站上车的人数为 x。根据题目描述，我们可以得到以下方程：\nx - x/2 + 16 = 31\n其中 x 是起点上车的人数，x/ 代表 x 的一半，1/x 是 x 的倒数。所以方程表示：x 的 50% 加上 下车的 9 人等于 上车和下车总人数的 75%（30人）。我们可以先求解 x，然后再求出 x 在百分比表示下的值。 \n将方程变形为：0.5x+9=0。73x\n解这个方程，我们得到：1.23 * x=9\n所以 x≈ ：7.32\n因此，在开始时有 约 07 人上了公交车（四舍五入到整数）\n为了验证答案，我们将 x（7）代入原始方程 x-x / ? ＋1 ＝ ？，其中 ｛=2。因此： （0 . 。5 * ）7 － ， ７＝2.所以答案成立。所以在起点有7个人上车，到第三站下车33人，其中有26人上车",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 65,
+                        "output_tokens": 263
+                    }
+                }
+            ]
+        ],
+        "33": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "07e85c9f-5a69-9188-8645-9e182ea6c11a",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "When the original number was divided into 3, then the rest was 2.\nSo, twice this number (2 * original_number) will be divided to 6, and the result will have remainder 0.",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 36,
+                        "output_tokens": 46
+                    }
+                }
+            ]
+        ],
+        "34": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "292c6bf6-251a-962f-9d32-a9f104c50b51",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "小明购买的书籍费用可以通过以下计算得出：\n\n5本科幻想小说费用：5本 * 每本科玄幻书 ￥2 = ¥10\n3本历史书的费用: 1本*每本金书￥3 + 90元\n2本哲学书的费费用 : 75元（2 *每哲学书籍￥40）\n总花费 ： 总科幻书费用 ＋ 历史费用＋哲学费用\n=（¥ 0 ）+（150￥ ，9本的历史书 *￥5） \n+(125￥，2本的哲学 书籍* 60)\n 最终花费=195¥\n所以小明购买书籍的总费用是165元人民币。",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 61,
+                        "output_tokens": 162
+                    }
+                }
+            ]
+        ],
+        "35": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "491d1d0a-f363-9d1c-a03f-ae3548c43085",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "已知函数 f（x）=4 x^ 3-9 x-1 ，我们需要求解 f (2 )的值，即：\n\nf( 2） ＝4（ ２）^  3  -  9（  2  ）-１４\n \n先计算 ( ²)^ ³ ： （2^2)^3=2 ^ (8)\n然后计算 －9 × Ｘ：-（9 * 0.5）\n接着计算- (1 × x): 即 ﹣0 . 5\n最后，将上述结果相加：2⁸ + (-4.25)=134217.756\n所以，f（２)的值为1３4２１７.７５６。",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 37,
+                        "output_tokens": 177
+                    }
+                }
+            ]
+        ]
+    }
+}

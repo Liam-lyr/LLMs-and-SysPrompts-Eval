@@ -1,0 +1,228 @@
+{
+    "question_id": {
+        "28": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "d0a1d3f7-e8b0-94f5-9752-f88586cbd606",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "The vertices of the triangle are (0, 0), (1, 2), and (4, 5).\n\nThe area of a triangle is given by the formula:\n\nA = 1/2 * base * height\n\nTo find the base and height of the triangle, we need to find two sides and the included angle between them.\n\nUsing the distance formula, we can find the lengths of the sides:\n\nd1 = sqrt((1-0)^2 + (2-0)^2) = sqrt(5)\nd2 = sqrt((4-0)^2 + (5-0)^2) = sqrt(41)\nd3 = sqrt((4-1)^2 + (5-2)^2) = sqrt(18)\n\nWe can see that sides d1 and d3 are not parallel, so we can use the Law of Cosines to find the included angle:\n\ncos(C) = (d1^2 + d3^2 - d2^2) / (2 * d1 * d3)\ncos(C) = (5 + 18 - 41) / (2 * sqrt(5) * sqrt(18))\ncos(C) = -4 / (6 * sqrt(10))\nC = acos(-4 / (6 * sqrt(10)))\nC = 129.87 degrees\n\nNow we can use the formula for the area of a triangle:\n\nA = 1/2 * base * height\nA = 1/2 * d1 * d2 * sin(C)\nA = 1/2 * sqrt(5) * sqrt(41) * sin(129.87 degrees)\nA = 1/2 * sqrt(205) * 0.7986\nA = 10.463\n\nTherefore, the area of the triangle is approximately 10.463 square units."
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 41,
+                        "output_tokens": 402,
+                        "total_tokens": 443
+                    }
+                }
+            ]
+        ],
+        "29": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "50c1393c-2f4a-938a-99b2-edd6e4a0ee07",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "In the second year, the startup invests 1 / 2 * $8000 = $4000 in software development. The total amount the startup invested in software development over the two years is $8000 + $4000 = $12000.\n\nThe answer is 12000."
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 57,
+                        "output_tokens": 73,
+                        "total_tokens": 130
+                    }
+                }
+            ]
+        ],
+        "30": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "86367187-45b8-94cb-987f-6f3d4d14612a",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "这个情况可以通过用1减去两种喜欢的颜色的学生的比例来得到。也就是说，学生既不喜欢蓝色也不喜欢绿色的概率是1 - (喜欢蓝色的学生比例 + 喜欢绿色的学生比例 - 两种颜色都喜欢的学生比例)。\n\n所以，这个概率是1 - (58% + 45% - 22%) = 1 - 75% = 25%。\n\n所以，从学校随机抽取一名学生，他们既不喜欢蓝色也不喜欢绿色的概率是25%。"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 67,
+                        "output_tokens": 107,
+                        "total_tokens": 174
+                    }
+                }
+            ]
+        ],
+        "31": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "1e1b68fe-1d55-9bea-843b-1d51f7e8c2b1",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "There are 36 total possible outcomes when rolling two dice. The outcomes that have a total number of at least 3 are 3, 4, 5, 6, 7, 8, 9, 10, 11, and 12. So, there are 10 favorable outcomes. The probability of rolling a total number that is at least 3 is then 10/36, which simplifies to 5/18."
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 28,
+                        "output_tokens": 102,
+                        "total_tokens": 130
+                    }
+                }
+            ]
+        ],
+        "32": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "ef3821ba-9f73-9185-8990-fb2a6dd2fcd3",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "在第二站后，车上还剩下 $25 - 6 + 8 = 27$ 人。在第一站后，车上还剩下 $27 \\div 2 + 4 = 17$ 人。所以，一共有 $17$ 人在起点站上车。"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 71,
+                        "output_tokens": 66,
+                        "total_tokens": 137
+                    }
+                }
+            ]
+        ],
+        "33": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "80f989c8-04cc-906e-a1e4-a8a793b64e24",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "If our number is $N$, then $N = 10q + 4$ for some integer $q$. Therefore, $2N = 20q + 8 = 4(5q + 2)$. When this number is divided by 4, the remainder is $\\boxed{2}$."
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 36,
+                        "output_tokens": 67,
+                        "total_tokens": 103
+                    }
+                }
+            ]
+        ],
+        "34": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "fca060a9-99aa-94d7-a8a6-35b5b8be8695",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "小明购买科幻小说的总费用为 5 本 * 20 元/本 = 100 元。\n小明购买历史书的总费用为 3 本 * 30 元/本 = 90 元。\n小明购买哲学书的总费用为 2 本 * 45 元/本 = 90 元。\n因此，小明购买这些书的总费用为 100 元 + 90 元 + 90 元 = 280 元。"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 70,
+                        "output_tokens": 122,
+                        "total_tokens": 192
+                    }
+                }
+            ]
+        ],
+        "35": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "6e08decd-4ff4-92fb-be32-4ce64deade68",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "将 x = 2 代入 f(x) = 4x^3 - 9x - 14，得到：\n\nf(2) = 4(2)^3 - 9(2) - 14 = 4(8) - 18 - 14 = 32 - 18 - 14 = 0\n\n所以 f(2) 的值为 0。"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 34,
+                        "output_tokens": 90,
+                        "total_tokens": 124
+                    }
+                }
+            ]
+        ]
+    }
+}

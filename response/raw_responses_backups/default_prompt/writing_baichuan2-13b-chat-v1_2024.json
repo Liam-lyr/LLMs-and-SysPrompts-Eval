@@ -1,0 +1,284 @@
+{
+    "question_id": {
+        "18": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "cc5e8668-d87e-989b-a417-231615318beb",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "标题：潮男的衣柜里怎么能少了一条帅气十足的牛仔裤？\n\n正文：\n亲爱的朋友们，你们是否也在寻找一款既时尚又实用的牛仔裤呢？那么，你们的等待即将结束！让我来为你们揭秘这款让你成为街头潮女的秘密武器——帅气男士牛仔长裤！\n \n首先，让我用惊叹号和表情符来告诉你们这款牛仔裤的魅力所在！🌟💥 这款Ootd（Outfit of the Day，每日穿搭）必备单品，让你轻松穿出自信，展现你的独特个性！👖👕 穿上它，你会感受到一种前所未有的舒适感，仿佛成为了潮流的引领者！💃🕺\n   \n接下来，让我们来聊聊悬念与热点话题。猜猜看，这款神奇的牛仔裤有哪些令人惊喜的设计？🤔🔥 它采用了最新的潮流元素，让你在众人中脱颖而出！🔥💥 你是否好奇它的面料如何？柔软舒适，透气性好，让你的双腿在炎炎夏日里也能保持清爽！🌴🌞\n  \n最后，口语化的表达和强相关tags让你的文案更具吸引力！口语的表达方式让文字更加亲切，而关键词则让你的内容更容易被搜索到。💪👍 快来试试吧，让这款帅气牛仔裤成为你衣橱里的新宠！🎉🎁\n    \nTags: 牛仔裤, 潮牌, OOTDT, #帅气,#牛仔裤搭配,##潮人必备,###潮男士,####潮流风向标",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 93,
+                        "output_tokens": 279
+                    }
+                }
+            ]
+        ],
+        "19": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "e98f7e0f-2e9b-96ba-968f-b93af078e8e8",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "[Your Name]\n[Current Employer's Name and Address] \n\n123 Main Street, New York, NY 10011\nEmail: [Your Email Address\nPhone: (1)1-1314-556-7890\nDate: January 3, 2022\nSubject: Resignation Letter\nDear [Employer' Name],\nI hope this letter finds you well. I am writing to formally submit my resignation from my position as [Job Title] at [Company Name ] effective [Resignations Effective Date]. <p>I would like to take this opportunity to express my gratitude and appreciation for my time working at your esteemed organization. It has been an absolute pleasure to contribute to the growth and success of [company name] and work alongside such talented and dedicated colleagues. Your unwavering support and encouragement have played a crucial role in my personal and professional development, and I will forever be grateful for this experience.\n</p><p>As we approach my departure, I would also like acknowledge the numerous opportunities and challenges I have faced during my tenure at the company. Each experience has taught me valuable lessons and provided me with the tools necessary to excel in future endeavors. While I leave with a sense of accomplishment and pride in what we have achieved, there is also a tinge of sadness in knowing that I must say goodbye to this incredible team.</p>\n<p>In closing, please feel free to reach out at any time should you require any further assistance or have any questions regarding my transition. My contact information is provided above, should the need arise. Once again, thank you for everything and for providing me the opportunity of a lifetime. Wishing you and the entire team continued success in the future.<br />\nSincerely,< br />[Yourname]",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 32,
+                        "output_tokens": 379
+                    }
+                }
+            ]
+        ],
+        "20": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "443584ed-e3db-9db5-bc6e-7b53be40e76f",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "[Your Name]\n[Address]",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 30,
+                        "output_tokens": 8
+                    }
+                }
+            ]
+        ],
+        "21": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "27c7178e-8083-98d1-bd68-af111e876cca",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "标题：逆袭之路第一幕：贫穷的少女小悦（Lily）正在家中打扫卫生，突然一道闪电击中了她，她穿越到了另一个世界。场景一：小越醒来后发现自己身处在一个陌生的世界，这里的一切都和她原本的世界截然不同。她发现自己穿到了一个富有的家庭中，但这家人的态度非常冷漠。小月试图与他们沟通，但他们并不理解她。这时，一个名叫Tom的年轻人走了过来，他似乎对小悦产生了兴趣。Tom：你是谁？小：我叫小，我来自另一个世界的。T：另一个？你是从哪个星球来的？L：我不是从星球上来的，我只是从另一个世界里来的。汤母看着小乐，觉得她有点奇怪，但还是决定给她一个机会。汤姆：好吧，如果你能帮助我们解决这个问题，我们可以留下你。问题：我们公司最近遇到了一些经济困难，如果我们不能解决这个问题的话，公司就会被竞争对手收购。L:好吧。我会尽我所能帮助你的。第二幕场景：第二天，小月在Tom的帮助下开始了解公司的状况。她开始意识到公司的困境是由于管理不善和内部腐败造成的。莉莉决定采取行动。莉：Tom，我认为我们需要改革公司的管理结构，消除内部腐蚀。托姆：你说得对，但是这对我们来说很难。乐：我们可以一起做到。我们可以从自己开始，然后逐步改变整个公司。经过一段时间的努力，莉莉和汤姆成功地改革了公司的管理体系，并清除了内部腐烂。公司的财务状况也开始好转。第三幕。随着公司的成功转型，Lil和Tom之间的关系也变得越来越近。但与此同时，竞争对手也开始采取行动，试图收购公司，再次造成经济困境。丽塔：我们必须再次采取行动来保护公司汤姆。：我明白，但我们现在该怎么办？乐莉提出了一个大胆的计划：“我们可以利用我们新近获得的技术，开发一种新产品，这将使我们与竞争对手不同。”经过艰苦努力，他们成功地开发了新产品并推向市场，这使公司在竞争中脱颖而出。第四幕，随着公司成功摆脱困境，公司的员工们也开始重新审视小月的存在。他们开始对她表示敬意和感激。然而，这也引起了Tom母亲的注意，她开始担心Lili和汤之间的关系。母亲：汤姆，你为什么要和这样一个女孩在一起？她只是来自另一种世界的陌生人。托马斯：妈妈，我已经学会了欣赏L的才能和勇气。她是帮助我拯救公司的关键人物。妈妈：但你知道她不属于我们的世界吗？托马斯:我知道，但我选择相信她并珍惜我们所拥有的。第五幕:公司的危机已经解决，汤姆和小悦之间的关系也得到了家人的认可。他们在庆祝公司成功的晚会上相拥而舞。就在这时",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 79,
+                        "output_tokens": 526
+                    }
+                }
+            ]
+        ],
+        "22": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "87dfef3b-b815-91f7-8e3a-92b39f9fe9f8",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "Subject: Apology for Order Delay and Reassurance of Resolution\n\nDear [Customer's Name],\nI hope this email finds you well. I am writing to sincerely apologize for the delay you experienced in receiving your order. We understand the importance of timely delivery and the inconvenience this may have caused you.\n \nWe value your business and appreciate your patience while we worked to resolve this issue. Please be assured that we have taken the necessary steps to prevent similar delays in the future. Our team has reviewed and improved various processes to ensure that your orders are processed and shipped as quickly as possible. .We are also working closely with our logistics partners to optimize their operations and minimize any potential delays..Please rest assured, we are fully committed to resolving any issues that may arise and will work diligently to maintain the high standards of service you have come to expect from us.Your satisfaction is our top priority,and we appreciate the opportunity to make this situation right. To show our appreciation for your continued support,we are offering you a [discount/gift/coupon] as a token of our gratitude. This offer is valid for [number of days/time period] from the date of this message.Simply enter the code [Discount Code] at checkout to take advantage ofthis offer.If you need further assistance or have any questions,please do not hesitate to contact our customer support team at [phone number/email address]. They will be more than happy to assist you and ensure your experience with us is a positive one.Once again, please accept our sincere apology for any inconvenience caused by the order delay. Thank you for choosing [Company Name] and foryour continued loyalty.Wishing you all the best.Sincerely,\n[Your Name/Title]\n[[Company/Department Name]]\n([Company Email Address])\n((Company Phone Number))",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 33,
+                        "output_tokens": 384
+                    }
+                }
+            ]
+        ],
+        "23": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "44e47575-af89-9173-af6f-0323a05f8c1f",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "一、引言\n1. 研究背景：人工智能技术的发展，特别是自然语言处理技术的进步\n2. 目前chatGPT等大语言模型的现状\n3. 本研究的目的和意义\n\n二、chat模型的基本原理与技术\n 1．自然语言表达与理解的基本问题\n  2．基于深度学习的语言生成模型\n   3．chatgpt等模型的构建与优化\n    \n三、Chat模型对未来社会的影响\n4．信息检索与获取方式的变革\n5．教育领域的应用\n6．人机交互的改变\n7．职业领域的挑战与机遇\n8．伦理与法律问题及应对\n9．对未来发展的展望\n     \n四、案例研究\n       \n五、结论\n        1、总结全文\n         2、对未来发展趋势的预测\n          3、研究局限性和未来研究方向",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 33,
+                        "output_tokens": 174
+                    }
+                }
+            ]
+        ],
+        "24": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "4c06400f-58ce-9da0-a28a-14fa5bcb767a",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "Title: A Cultural Journey Through the Aloha State: Exploring Hawaii's Essence\n\nIntroduction\nHello, travel enthusiasts! I'm back again with another exciting journey, this time taking you to the beautiful islands of Hawaii. I recently had the privilege of exploring this breathtakingly beautiful archipelago, and I can't wait to share my cultural adventures with you. From the stunning beaches to rich history and tradition, Hawaii is a must visit destination for any world traveler. Let' s dive into my recent journey and uncover the essence of this unique destination.\nCultural Experiences\nHawaii is home to a diverse array of cultures, making it a fascinating place to immerse yourself in new experiences. My trip began in the capital city of Honolulu, where I was able to explore the bustling downtown area and interact with the local community. One of the most memorable experiences was attending a traditional Hawaiian hālau (dance performance). The energy in that room was electric, as the dancers showcased their grace and skill, accompanied by the soothing sound of indigenous instruments. It was a truly captivating experience that I won' t soon forget. \nAnother must during my stay in Honolulu was visiting the Pearl Harbor National Memorial. This poignant historical site commemorates the events of December 7, 1941, when Japan launched a surprise attack on the United States, leading to World War II. Taking a boat out to USS Arizona, which still lies at the bottom of Pearl Harbour, was an incredibly humbling experience. Seeing the white marble walls and the endless ocean water surrounding the sunken ship, it'\ns hard to imagine the devastation and loss that occurred here. As I stood on deck, I couldn' te help but feel a deep sense of respect and admiration for the brave men and women who lost their lives on that fateful day.Hawaiian Culture and Traditions\nAfter spending some time in Honol ulu,I decided to venture to Maui, the second-largest island in Hawaii and known for its breathtaking landscapes and rich culture. Here, l was fortunate enough to participate in a lei making workshop, a tradition that symbolizes friendship, love,and aloha. Learning how to craft these beautiful floral necklaces was such an intimate experience, one that l will forever cherish.Another fascinating aspect of Hawaiian culture is the art of surfing. While in Maui",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 29,
+                        "output_tokens": 480
+                    }
+                }
+            ]
+        ],
+        "25": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "901e9d74-13e1-9879-8495-c8bf15b31ebb",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "Title: \"A Cosmic Odyssey: A Review of 'Interstellar'\"\n\nDate: [Current Date]\n \nDirected by: Christopher Nolan\nWritten by; Christopher and Jonathan Nolan - based on the novel by \"The Extraterrestrial\" by Michael Crichton\nStarring: Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Cain, Matt Damon\nDistributed by Warner Bros. Pictures\nRuntime: 169 minutes\nCertificate: PG\nReviewer: Dr. A. Robot\nRating: Five out of Five Stars\nIn a world where the human race is on its last legs, a group of intrepid explorers embark on a mission that could save the Earth from certain destruction. \"Interstaller\" is a breathtaking sci-fi epic that takes audiences on an exhilarating journey through a cosmic odyssey.\nThe film opens with a dystopian Earth, where crops are dying, droughts are rampant,and the population is struggling to survive. Former NASA pilot and farmer Cooper (Matthew Mc Conaughe) is selected by Professor Brand (Michael Cain) to join a team of astronauts ona mission to find a new planet capable of sustaining human life. The team includes Brand's daughter, Amelia (Anne Hathaway), and a few other highly skilled individuals. They travel througha wormhole discovered by Brand, leading them to various planets in a quest for humanity' s new home. Along the way, they face numerous challenges, including black holes, time dilation, human greed, emotional conflicts, as well as the mysteries of the universe. .. and their own humanity. '\nChristopher Nolan, known for his cerebral and immersive films, has once again proven his mastery of creating captivating and thought-provoking cinematic experiences. His direction is impeccable, with each scene meticulously crafted to enhance the emotional impact and visual beauty of \"Intersellar.\" The film'ss special effectss are simply stunning, transporting audiences to other worlds and creating a sense of wonder and awe. From the vast expanses of space to the intricate details of planetary surfaces, \" Intersteller\" offers a visually stunning and emotionally resonant experience. Matthew McConaughey gives a powerful and heartfelt performance as Cooper, whose character'sgrowth and development drive the narrative. Anne Hathway,Jessica Chastian, Casey Affleck, Tessa Thompson, David Gyasi, Wes Bentley, William Devane, Joshua and Michael Hyatt also deliver stellar performances. Together,they create a compelling and multifaceted cast that keeps the audience engaged throughout the film. Special mention must go to Hoyte van Hoysla, the cinematographer, for capturing the beauty and grandeur of Nolan'",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 29,
+                        "output_tokens": 552
+                    }
+                }
+            ]
+        ],
+        "26": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "27eab367-76c9-977a-a2fa-7183b26e42ea",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "针对这位大学生的脱发问题和他的生活习惯，以下是一些建议：\n\n1. 增加蛋白质摄入：蛋白质是头发的主要成分，可以选择食用富含蛋白质的食物，如鸡肉、鱼肉、牛肉、豆腐、鸡蛋等。\n2. 多摄入富含维生素E的食物：维生素E有助于保护头发免受自由基损伤，可以从坚果、种子、绿叶蔬菜等食物中摄取。例如，可以吃杏仁、核桃、菠菜等食品。 \n3. 不吃过多油腻食物：油腻饮食容易导致头皮过多油脂，影响头发健康。尽量避免食用过多的油炸食品和甜品。",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 59,
+                        "output_tokens": 114
+                    }
+                }
+            ]
+        ],
+        "27": [
+            [
+                {
+                    "status_code": 200,
+                    "request_id": "21da83d5-8fc8-97ac-bcec-4d832fbb232c",
+                    "code": "",
+                    "message": "",
+                    "output": {
+                        "text": null,
+                        "finish_reason": null,
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "role": "assistant",
+                                    "content": "工作经历（H1开发）：\n\n在担任H3开发工程师期间，我负责了多个项目的开发工作，通过积极的行动和付出，为公司创造了显著的价值。在项目中，我非常注重与团队成员的协作，共同解决问题，提高开发效率。\n  \n以下是我参与的一些主要项目及取得的成果：  （添加具体项目）\n    \n1. 在项目中负责前端H4开发，通过与团队成员紧密合作，成功提高了页面的加载速度，优化了用户体验。  (使用积极动词)\n2. 通过对H6功能的深入研究，提出了创新的解决方案，使得产品的易用性和功能性得到了显著提升。 (添加事例和数据)   (保持简洁) \n3. 对多个项目进行了代码审查，发现并修复了潜在的安全漏洞，保障了系统的安全稳定性。(突出责任)",
+                                    "content_type": "text"
+                                }
+                            }
+                        ]
+                    },
+                    "usage": {
+                        "input_tokens": 65,
+                        "output_tokens": 167
+                    }
+                }
+            ]
+        ]
+    }
+}
