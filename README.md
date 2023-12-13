@@ -81,7 +81,7 @@ The project provides the evaluation of various tasks and models under the seed v
 
 ```sh
 python src/main.py --task TASK --model MODEL --eval --debug
-``` 
+```
 
 Please review the evaluation results for the corresponding tasks and models stored in `./results/gpt_raw_evals`. If you wish to review any previous output records, you can retrieve the corresponding file from the above folder to `./results/gpt_raw_evals` and then run it.
 
