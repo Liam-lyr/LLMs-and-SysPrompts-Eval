@@ -77,6 +77,8 @@ The project provides the evaluation of various tasks and models under the seed v
   - `./results/gpt_raw_evals_backups/default_prompt`.
   - `./results/gpt_raw_evals_backups/final_prompt`.
 
+In the following section: `TASK` can be `coding`, `math`, `roleplay`, `writing`; `MODEL` can be `qwen-14b-chat`, `baichuan2-13b-chat-v1`, `gpt-3.5-turbo`. For detailed project task description, test results and technical reports, please see the [report](report.pdf) (NOTICE: the report is in Chinese.)
+
 **Quickly view the score directly (including the pass@3 metric for code generation tasks):**
 
 ```sh
