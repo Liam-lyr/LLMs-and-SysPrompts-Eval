@@ -73,7 +73,7 @@ DASHSCOPE_API_KEY=sk-YYYYYYY
   -  `./results/gpt_raw_evals_backups/default_prompt`。
   -  `./results/gpt_raw_evals_backups/final_prompt`。
 
-以下部分中: `TASK` 可以是 `coding`、`math`、`roleplay`、`writing`; `MODEL` 可以是 `qwen-14b-chat`、`baichuan2-13b-chat-v1`、`gpt-3.5-turbo`。具体项目任务定义、测试结果、技术报告，见 [report](report.pdf)。(注意：报告为中文)
+以下部分中: `TASK` 可以是 `"coding"`、`"math"`、`"roleplay"`、`"writing"`; `MODEL` 可以是 `"qwen-14b-chat"`、`"baichuan2-13b-chat-v1"`、`"gpt-3.5-turbo"`。具体项目任务定义、测试结果、技术报告，见 [report](report.pdf)。(注意：报告为中文)
 
 **快速直接查看评分 (包括代码生成任务的 pass@3 指标):**
 
