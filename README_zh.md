@@ -87,7 +87,7 @@ python src/main.py --task TASK --model MODEL --eval --debug
 
 项目提供了完整的代码，可以直接使用。
 
-- **请求模型响应:**将通过 API 调用模型，question 范围为 `./data/pj3-test.jsonl` 中所有本任务的 question。响应将保存在 `./response/raw_responses`。
+- **请求模型响应:** 将通过 API 调用模型，question 范围为 `./data/pj3-test.jsonl` 中所有本任务的 question。响应将保存在 `./response/raw_responses`。
 
   ```sh
   python src/main.py --task TASK --model MODEL --request
@@ -95,7 +95,7 @@ python src/main.py --task TASK --model MODEL --eval --debug
   python src/main.py --task "math" --model "gpt-3.5-turbo" --request
   ```
 
-- **查看模型响应:**格式化输出 `./response/raw_responses`。主要用于调试，意义不大。
+- **查看模型响应:** 格式化输出 `./response/raw_responses`。主要用于调试，意义不大。
 
   ```sh
   python src/main.py --task TASK --model MODEL --request --debug
@@ -108,13 +108,13 @@ python src/main.py --task TASK --model MODEL --eval --debug
   python src/main.py --task TASK --model MODEL --eval
   ```
 
-- **也可以自动串行运行:**注意，需要避免不同模型同时测试，会引起 gpt-3.5-turbo 请求超额 (3 Request / min)。代码中只对同一模型的请求做了停等、二进制指数退避等处理，但未对不同模型同时测试做处理。
+- **也可以自动串行运行:** 注意，需要避免不同模型同时测试，会引起 gpt-3.5-turbo 请求超额 (3 Request / min)。代码中只对同一模型的请求做了停等、二进制指数退避等处理，但未对不同模型同时测试做处理。
 
   ```sh
   python src/main.py --task TASK --model MODEL --request --eval
   ```
 
-- **删除临时代码文件:**代码生成任务请求 gpt-3.5-turbo 评价时，会在 `./response/code_snippets/MODEL` 下生成代码文件，创建子进程并运行。可以一键清空：
+- **删除临时代码文件:** 代码生成任务请求 gpt-3.5-turbo 评价时，会在 `./response/code_snippets/MODEL` 下生成代码文件，创建子进程并运行。可以一键清空：
 
   ```sh
   python src/main.py --task TASK --model MODEL --clean_files --clean_response_messages
